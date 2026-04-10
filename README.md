@@ -10,10 +10,10 @@ ASRT是一个基于深度学习的中文语音识别系统，如果您觉得喜�
 
 **ReadMe Language** | 中文版 | [English](https://github.com/nl8590687/ASRT_SpeechRecognition/blob/master/README_EN.md) |
 
-[**ASRT项目主页**](https://asrt.ailemon.net/) | 
+[**ASRT项目主页**](https://www.ailemon.net/asrt) | 
 [**发布版下载**](https://wiki.ailemon.net/docs/asrt-doc/download) | 
 [**查看本项目的Wiki文档**](https://wiki.ailemon.net/docs/asrt-doc) | 
-[**实用效果体验Demo**](https://asrt.ailemon.net/demo) | 
+[**实用效果体验Demo**](https://www.ailemon.net/asrt/demo) | 
 [**打赏作者**](https://wiki.ailemon.net/docs/asrt-doc/asrt-doc-1deo9u61unti9)
 
 如果程序运行期间或使用中有什么问题，可以及时在issue中提出来，我将尽快做出答复。本项目作者交流QQ群：**894112051** ，加微信群请先加AI柠檬微信号：**ailemon-me** ，并备注“ASRT语音识别”

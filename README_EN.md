@@ -10,10 +10,10 @@ ASRT is A Deep-Learning-Based Chinese Speech Recognition System. If you like thi
 
 **ReadMe Language** | [中文版](https://github.com/nl8590687/ASRT_SpeechRecognition/blob/master/README.md) | English |
 
-[**ASRT Project Home Page**](https://asrt.ailemon.net/) | 
+[**ASRT Project Home Page**](https://www.ailemon.net/asrt?language=us-en) | 
 [**Released Download**](https://wiki.ailemon.net/docs/asrt-doc/download) | 
 [**View this project's wiki document (Chinese)**](https://wiki.ailemon.net/docs/asrt-doc) | 
-[**Experience Demo**](https://asrt.ailemon.net/demo) | 
+[**Experience Demo**](https://www.ailemon.net/asrt/demo?language=us-en) | 
 [**Donate**](https://wiki.ailemon.net/docs/asrt-doc/asrt-doc-1deo9u61unti9)
 
 If you have any questions in your works with this project, welcome to put up issues in this repo and I will response as soon as possible. 
